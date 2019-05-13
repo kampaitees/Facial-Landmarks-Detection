@@ -22,7 +22,4 @@ Face Morphing
 Virtual Makeover                                                                                                                
 Face Replacement                                                                                                                                                                                                         
 
-
-
-
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+Download the data from here:- https://www.kaggle.com/c/facial-keypoints-detection/data

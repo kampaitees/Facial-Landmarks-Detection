@@ -10,9 +10,9 @@ in your OpenCV image Window.
 This changing of the glasses is done using color filtering using Open CV.
 You can add different types of filters in the filters portion of the code.
 This code is built for filters which can be applied in front of eyes, you can change the position if you want to apply different 
-types of filters in the code(in place ofsunglasses in the code file)
+types of filters in the code(in place of sunglasses in the code file)
 
-Facial Landmarks detedction can also be used for various purposes like:-
+Facial Landmarks detection can also be used for various purposes like:-
 
 Facial feature detection improves face recognition                                                                    
 Male/Female Distinction                                                                             

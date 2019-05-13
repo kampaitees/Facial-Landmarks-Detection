@@ -37,3 +37,9 @@ Step 3 - Execute ``` python main.py ```
 Step 4 - Choose filters of your choice(I had included 6 here which can be applied in front of eyes, i.e. Glasses)
 
 Step 5 - And don't forget to SMILE !
+
+
+##Demo
+
+<img src="https://github.com/kampaitees/Facial-Landmarks-Detection-/blob/master/Test%20Images/2.png" >
+

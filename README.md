@@ -14,10 +14,10 @@ types of filters in the code(in place ofsunglasses in the code file)
 
 Facial Landmarks detedction can also be used for various purposes like:-
 
-Facial feature detection improves face recognition
-Male/Female Distinction
-Facial Expression Distinction
-Head pose estimation
-Face Morphing
-Virtual Makeover
-Face Replacement
+Facial feature detection improves face recognition                                                                    
+Male/Female Distinction                                                                             
+Facial Expression Distinction                                                                      
+Head pose estimation                                                                                   
+Face Morphing                                                                              
+Virtual Makeover                                                                                                                
+Face Replacement                                                                                               

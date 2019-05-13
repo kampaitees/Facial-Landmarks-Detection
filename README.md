@@ -22,4 +22,18 @@ Face Morphing
 Virtual Makeover                                                                                                                
 Face Replacement                                                                                                                                                                                                         
 
-Download the data from here:- https://www.kaggle.com/c/facial-keypoints-detection/data
+## Execution
+Order of Execution is as follows:
+
+Step 0 - Download the file from [here](https://www.kaggle.com/c/facial-keypoints-detection/data) and create a folder named data and 
+extract into it, it is compulsory to run.
+
+Step 1 - Execute ``` python buildingModel.py ```
+
+Step 2 - This could take a while, so feel free to take a break.
+
+Step 3 - Execute ``` python main.py ```
+
+Step 4 - Choose filters of your choice(I had included 6 here which can be applied in front of eyes, i.e. Glasses)
+
+Step 5 - And don't forget to SMILE !

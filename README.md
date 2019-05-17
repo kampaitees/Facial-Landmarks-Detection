@@ -15,7 +15,7 @@ types of filters in the code(in place of sunglasses in the code file)
 Facial Landmarks detection can also be used for various purposes like:-
 
 Facial feature detection improves face recognition                                                                    
-Male/Female Distinction                                                                             
+Male vs Female Distinction                                                                             
 Facial Expression Distinction                                                                      
 Head pose estimation                                                                                   
 Face Morphing                                                                              
@@ -40,13 +40,12 @@ Step 5 - And don't forget to SMILE !
 
 
 
-## Demo1
+## Demo 1
 
 <img src="https://github.com/kampaitees/Facial-Landmarks-Detection-/blob/master/Test%20Images/2.png" >
 
 
 
-## Demo2
+## Demo 2
 
 <img src="https://github.com/kampaitees/Facial-Landmarks-Detection-/blob/master/Test%20Images/3.png" >
-
